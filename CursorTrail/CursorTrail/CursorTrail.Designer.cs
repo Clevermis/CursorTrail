@@ -1,6 +1,6 @@
 ﻿namespace CursorTrail
 {
-    partial class Form1
+    partial class CursorTrail
     {
         /// <summary>
         /// 必需的设计器变量。
